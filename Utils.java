@@ -1,4 +1,4 @@
-package secondhalf.Revision;
+
 import java.util.Random;
 import java.util.Scanner;
 

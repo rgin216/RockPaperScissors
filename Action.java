@@ -1,4 +1,7 @@
-package secondhalf.Revision;
+
+
+//This is the factory class.
+
 public enum Action {
 	ROCK("R"), PAPER("P"), SCISSORS("S");
 
@@ -21,3 +24,4 @@ public enum Action {
 	}
 
 }
+
